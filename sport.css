@@ -1,0 +1,16 @@
+.mb-0 {
+    margin-top: 3%;
+    font-display: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.mx-auto {
+    font-family: 'Roboto', sans-serif;
+    border-style: groove;
+}
+body {
+    background-color: rgba(196, 245, 241, 0.623);
+}
+.navbar-brand {
+    font-family: 'Brush Script MT', 'Brush Script Std', cursive;
+    font-size: 30px;
+}
