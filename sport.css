@@ -2,15 +2,46 @@
     margin-top: 3%;
     font-display: 'Roboto', sans-serif;
     font-weight: bold;
+    color: white;
+    text-shadow: 4px 4px #000000;
 }
 .mx-auto {
     font-family: 'Roboto', sans-serif;
-    border-style: groove;
+    color: white;
+    text-shadow: 2px 2px #000000;
 }
 body {
-    background-color: rgba(196, 245, 241, 0.623);
+    background-color: rgba(43, 53, 52, 0.623);
 }
 .navbar-brand {
     font-family: 'Brush Script MT', 'Brush Script Std', cursive;
     font-size: 30px;
 }
+.card {
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-right: 5%;
+    color: white;
+    text-shadow: 2px 2px #000000;
+    background-color: rgb(103, 105, 105);
+    outline: 5px dotted rgb(255, 255, 255);
+}
+.list-group {
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: white;
+    text-shadow: 2px 2px #000000;
+}
+.list-group-item {
+    background-color: #696767;
+    outline: 5px solid rgb(255, 255, 255);
+}
+.kep {
+    height: 30%;
+    width: 30%;
+    margin-top: 3%;
+    margin: 1px;
+    margin-left: 20%;
+}
+    
