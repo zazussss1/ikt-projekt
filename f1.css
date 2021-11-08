@@ -1,0 +1,8 @@
+.navbar-brand {
+    font-family: 'Brush Script MT', 'Brush Script Std', cursive;
+    font-size: 30px;
+    display: grid;
+}
+body {
+    background-color: rgb(124, 124, 124);
+}
