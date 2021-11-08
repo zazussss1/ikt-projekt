@@ -6,3 +6,12 @@
 body {
     background-color: rgb(124, 124, 124);
 }
+.carousel {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.d-inline-block {
+    margin-left: auto;
+    margin-right: auto;
+}
